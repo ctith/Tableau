@@ -118,3 +118,20 @@ Pour ne plus voir toutes années d'un coup, déplacer le bloc année de Ligne (R
 Rajouter des informations par État qui enrichissent la visualisation.
 
 ![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2014_22_59-Editing%20Tableau_README.md%20at%20master%20%C2%B7%20ctith_Tableau.png)
+
+## 7. Explorer d'autres représentations
+Comme vu en cours, la représenation sous forme de carte ne représente pas forcément fidèlement les données.
+
+**Questions :**
+
+•	Quelle représentation alternative pourrait plus refléter de manière plus équilibrée l'impact relatif de chaque état ?
+
+Piste (parmis d'autres) : il est possible de garder une représentation spatiale tout en cachant la carte via le menu Carte > Carte d'arrière plan > Aucun.
+
+![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2014_26_04-Tableau%20Public%20-%20Classeur1.png)
+
+## 8. Explorer les "Swing States"
+
+Aux États Unis, certains états votent toujours pour le candidat d'un parti donné, alors que d'autres sont plus à même de basculer d'un camps vers un autre. Constuire une visualisation qui permette d'identifier les États les plus stables politiquement, et/ou ceux qui changent le plus souvent sur les 30 dernières années.
+
+Étendre la visualisation pour explorer le changement des Swing States au cours du temps.
