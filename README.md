@@ -76,10 +76,15 @@ Créer une nouvelle feuille dans votre classeur. Afficher de nouveau une table a
 
 Regarder dans les données quelle colonne peut donner une indications sur la force de la victoire (en bas à gauche de Tableau cliquer sur Source de données (Data Source)). 
 
-Utiliser une marque textuelle (ou changer celle utilisée par défaut) pour indiquer le vainqueur (State Winner), et la couleur pour indiquer l'intensité de la victoire (avec la variable que vous avez identifié dans les données). 
+Utiliser une marque textuelle (ou changer celle utilisée par défaut) pour indiquer le vainqueur (State Winner), et la couleur (ici la taille) pour indiquer l'intensité de la victoire (avec la variable que vous avez identifié dans les données). 
+
+![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2013_59_09-Tableau_2018-03-29%2012_19_40-Tableau%20Public%20Sign%20In.png%20at%20master%20%C2%B7%20ctith_Tableau.png)
 
 Ajuster la couleur pour qu'elles représentent les partis (clic droit sur la légende > modifier les couleurs), et utiliser les paramètres avancés pour que l'échelle soit uniforme. Sauvegarder.
 
 **Questions :**
 
 •	Identifier les périodes temporelles (intervalles) plutôt démocrates et plutôt républicains.
+
+![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2013_58_08-Editing%20Tableau_README.md%20at%20master%20%C2%B7%20ctith_Tableau.png)
+
