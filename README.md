@@ -70,3 +70,16 @@ Faire en sorte que le filtre apparaisse à l'écran, et l'utiliser pour répondr
 Renommer votre feuille de calcul en double cliquant sur le titre de la visualisation, selon le numéro de l'exercice. Par exemple TPDataViz1.3. Sauvegarder, créer un compte Tableau Public au besoin.
 
 ![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2012_19_40-Tableau%20Public%20Sign%20In.png)
+
+## 5. Identifier les tendances
+Créer une nouvelle feuille dans votre classeur. Afficher de nouveau une table avec les années (Year) en colonne, et les États (States) en ligne.
+
+Regarder dans les données quelle colonne peut donner une indications sur la force de la victoire (en bas à gauche de Tableau cliquer sur Source de données (Data Source)). 
+
+Utiliser une marque textuelle (ou changer celle utilisée par défaut) pour indiquer le vainqueur (State Winner), et la couleur pour indiquer l'intensité de la victoire (avec la variable que vous avez identifié dans les données). 
+
+Ajuster la couleur pour qu'elles représentent les partis (clic droit sur la légende > modifier les couleurs), et utiliser les paramètres avancés pour que l'échelle soit uniforme. Sauvegarder.
+
+**Questions :**
+
+•	Identifier les périodes temporelles (intervalles) plutôt démocrates et plutôt républicains.
