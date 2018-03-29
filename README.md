@@ -107,9 +107,14 @@ Via Montre-moi, constater la différence entre Carte de symbole (Symbol Map) et 
 
 ![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2014_18_08-Editing%20Tableau_README.md%20at%20master%20%C2%B7%20ctith_Tableau.png)
 
-Rajouter les années en ligne (Row). Pour ne plus voir toutes années d'un coup, déplacer le bloc année de Ligne (Row) à Pages. Il est maintenant possible de naviguer entre les années.
+Rajouter les années en ligne (Row). 
+
+![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2014_21_53-Editing%20Tableau_README.md%20at%20master%20%C2%B7%20ctith_Tableau.png)
+
+Pour ne plus voir toutes années d'un coup, déplacer le bloc année de Ligne (Row) à Pages. Il est maintenant possible de naviguer entre les années.
+
+![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2014_22_02-Editing%20Tableau_README.md%20at%20master%20%C2%B7%20ctith_Tableau.png)
 
 Rajouter des informations par État qui enrichissent la visualisation.
 
-L'exercice peut être que comme c'est une valeur quantitative cette fois identifier les différents mappings.
-
+![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2014_22_59-Editing%20Tableau_README.md%20at%20master%20%C2%B7%20ctith_Tableau.png)
