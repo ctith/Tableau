@@ -128,7 +128,7 @@ Comme vu en cours, la représenation sous forme de carte ne représente pas forc
 
 Piste (parmis d'autres) : il est possible de garder une représentation spatiale tout en cachant la carte via le menu Carte > Carte d'arrière plan > Aucun.
 
-![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2014_26_04-Tableau%20Public%20-%20Classeur1.png)
+![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2014_29_10-Tableau_README.md%20at%20master%20%C2%B7%20ctith_Tableau.png)
 
 ## 8. Explorer les "Swing States"
 
