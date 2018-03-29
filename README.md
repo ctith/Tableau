@@ -15,7 +15,10 @@ Basculer sur la vue des données (en bas à gauche de Tableau cliquer sur Source
 **Questions :**
 
 •	Que signifient les icônes dans l'en-tête des colonnes ?
+> Le type des données
 
 •	Quelles sont les valeurs possibles ?
+> Nombre décimal, Nombre entier, Date & Heure, Date, Chaîne de caractère, Booléen, Par défaut
 
 •	Est-ce possible de changer ces valeurs et quel est l'effet sur la colonne en cours ?
+> Oui, Tableau transforme les données de la colonne dans le type voulu (ex: Nombre entier 1 -> Nombre décimal 1,0000)
