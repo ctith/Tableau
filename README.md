@@ -88,3 +88,28 @@ Ajuster la couleur pour qu'elles représentent les partis (clic droit sur la lé
 
 ![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2013_58_08-Editing%20Tableau_README.md%20at%20master%20%C2%B7%20ctith_Tableau.png)
 
+## 6. Cartographier
+Créer une nouvelle feuille, ajouter Latitude et Longitude en ligne et colonne.
+
+Via le menu Montre-moi (Show me) en haut à droite, basculer sur une visualisation sous forme de carte. 
+
+Rajouter la dimension State comme Repère (Mark) détail, et la variable RD Difference (bin) utilisée précédemment toujours en couleur. 
+
+Via Montre-moi, constater la différence entre Carte de symbole (Symbol Map) et Carte pleine (Filled Maps). Laquelle semble plus appropriée?
+
+[Documentation Map](http://onlinehelp.tableau.com/current/pro/desktop/en-us/help.html#maps_build.html%3FTocPath%3DDesign%2520Views%2520and%2520Analyze%2520Data%7CBuild%2520Map%2520Views%7CMapping%2520in%2520Tableau%7C_____0)
+
+> Proportional **symbol maps** are great for showing quantitative data for individual locations. For example, you can plot earthquakes around the world and size them by magnitude.
+
+![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2014_18_43-Editing%20Tableau_README.md%20at%20master%20%C2%B7%20ctith_Tableau.png)
+
+> Also known as **filled maps** in Tableau, Choropleth maps are great for showing ratio data. For example, if you want to see obesity rates for every county across the United States, you might consider creating a choropleth map to see if you can spot any spatial trends.
+
+![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2014_18_08-Editing%20Tableau_README.md%20at%20master%20%C2%B7%20ctith_Tableau.png)
+
+Rajouter les années en ligne (Row). Pour ne plus voir toutes années d'un coup, déplacer le bloc année de Ligne (Row) à Pages. Il est maintenant possible de naviguer entre les années.
+
+Rajouter des informations par État qui enrichissent la visualisation.
+
+L'exercice peut être que comme c'est une valeur quantitative cette fois identifier les différents mappings.
+
