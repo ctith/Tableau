@@ -136,8 +136,10 @@ Aux États Unis, certains états votent toujours pour le candidat d'un parti don
 
 Étendre la visualisation pour explorer le changement des Swing States au cours du temps.
 
-> faire un MAX(shift)
+> solution 1 : faire un MAX(shift)
 
-> faire un calcul de dérivé au niveau du shift ou State Winner
+> solution 2 : faire un calcul de dérivé au niveau de chaque shift ou State Winner pour avoir la variation politique par année
 
 ![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2016_27_40-Editing%20Tableau_README.md%20at%20master%20%C2%B7%20ctith_Tableau.png)
+
+> solution 3 : RD_difference (bin), SUM(difference), STD(difference)
