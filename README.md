@@ -38,3 +38,17 @@ Ajuster le format de la marque graphique (texte, carré, ...)
 Ajuster au besoin la couleur (via le menu de la légende, à droite) pour que le rouge représente les républicains, le bleu les démocrates et le orange les indépendants.
 
 ![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2012_01_29-.png)
+
+**Questions :**
+
+•	Quelles sont les données manquantes ?
+> Alaska, Dist of Col., Hawaii entre 1910 et 1960
+
+•	Quel indicateur utiliser ?
+> States
+
+Ré-organiser la table (trier par ligne selon la mesure auto-générée Nombre d'enregistrement) pour mettre en avant les données qui manquent.
+![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2012_09_17-Trier%20%5BState%5D.png)
+![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2012_09_25-Editing%20Tableau_README.md%20at%20master%20%C2%B7%20ctith_Tableau.png)
+
+
