@@ -48,7 +48,20 @@ Ajuster au besoin la couleur (via le menu de la légende, à droite) pour que le
 > States
 
 Ré-organiser la table (trier par ligne selon la mesure auto-générée Nombre d'enregistrement) pour mettre en avant les données qui manquent.
+
 ![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2012_09_17-Trier%20%5BState%5D.png)
 ![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2012_09_25-Editing%20Tableau_README.md%20at%20master%20%C2%B7%20ctith_Tableau.png)
 
+## 3. Filtrer de manière basique
+Pour chercher où un Indépendant (candidat non Républicain ou Démocrate) est arrivé en tête, il est possible de cliquer sur la légende (qui est interactive). 
 
+Cependant créez votre propre mécanisme de filtrage, similaire à la légende, en rajoutant State Winner comme filtre. 
+
+Faire en sorte que le filtre apparaisse à l'écran, et l'utiliser pour répondre à la question suivante.
+
+![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2012_12_40-Filtrer%20%5BState%20Winner%5D.png)
+
+**Questions :**
+
+•	Dans quel État et en quelle année un indépendant un indépendant est arrivé en tête ?
+![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2012_15_40-Tableau%20Public%20-%20Classeur1.png)
