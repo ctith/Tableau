@@ -135,3 +135,9 @@ Piste (parmis d'autres) : il est possible de garder une représentation spatiale
 Aux États Unis, certains états votent toujours pour le candidat d'un parti donné, alors que d'autres sont plus à même de basculer d'un camps vers un autre. Constuire une visualisation qui permette d'identifier les États les plus stables politiquement, et/ou ceux qui changent le plus souvent sur les 30 dernières années.
 
 Étendre la visualisation pour explorer le changement des Swing States au cours du temps.
+
+> faire un MAX(shift)
+
+> faire un calcul de dérivé au niveau du shift ou State Winner
+
+![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2016_27_40-Editing%20Tableau_README.md%20at%20master%20%C2%B7%20ctith_Tableau.png)
