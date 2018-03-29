@@ -11,6 +11,7 @@ Lancer Tableau, sélectionner connexion à un fichier texte et charger le fichie
 > ElectionsPresidentielleUS_data_clean.csv. 
 
 Basculer sur la vue des données (en bas à gauche de Tableau cliquer sur Source de données (Data Source)).
+![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2011_53_55-TP%20Tableau.docx%20-%20Word.png)
 
 **Questions :**
 
@@ -22,3 +23,18 @@ Basculer sur la vue des données (en bas à gauche de Tableau cliquer sur Source
 
 •	Est-ce possible de changer ces valeurs et quel est l'effet sur la colonne en cours ?
 > Oui, Tableau transforme les données de la colonne dans le type voulu (ex: Nombre entier 1 -> Nombre décimal 1,0000)
+
+## 2. Voir les résultats sous forme de table
+Basculer maintenant sur la 1ère Feuille (Sheet). 
+
+Commencer par afficher une table avec les années (Year) en colonne, et les États (States) en ligne.
+
+Afficher à l'intérieur de la table le gagnant de l'État en question pour l'année donnée (State Winner). 
+Pour ce faire, associer le State Winner à une marque graphique, ou Repères (Mark). 
+Essayer avec du texte (Label) ou de la couleur. 
+
+Ajuster le format de la marque graphique (texte, carré, ...) 
+
+Ajuster au besoin la couleur (via le menu de la légende, à droite) pour que le rouge représente les républicains, le bleu les démocrates et le orange les indépendants.
+
+![](https://github.com/ctith/Tableau/blob/master/Tableau-screenshot/2018-03-29%2012_01_29-.png)
